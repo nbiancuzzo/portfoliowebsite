@@ -1,0 +1,11 @@
+body {
+    color: yellow;
+    background-color: black;
+    font-size: 18pt;
+    font-family: Veranda, Geneva, Arial, Helvetica, sans-serif;  
+}
+h2{color: yellow; font-size: 14pt; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h4{color: gray; font-size: 12pt; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h5{color: white; font-size: 10pt;}
+.text   {color: white; font-weight: lighter; font-size: 10pt;}
+
